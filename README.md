@@ -44,7 +44,6 @@ This is a starter template for building REST APIs using **Express.js**, **Knex.j
 
 To run the project locally, use the following command:
 
-    ```bash
     bun run dev
 
 This will start the server in hot-reload mode. The application will be available at http://localhost:3000.
@@ -59,7 +58,6 @@ This will start the server in hot-reload mode. The application will be available
     PORT: The port the server will listen on (default: 3000)
 
 ## Project Structure
-    ```bash
     src/
     ├── configs/db
     │   └── knexfile.js                # Database configuration
