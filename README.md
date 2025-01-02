@@ -16,7 +16,7 @@ This is a starter template for building REST APIs using **Express.js**, **Knex.j
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/starter-express-knex-mysql-template.git
+   git clone https://github.com/FikrulAkhyar/starter-express-knex-mysql-template.git
    cd starter-express-knex-mysql-template
 
 2. Install dependencies:
