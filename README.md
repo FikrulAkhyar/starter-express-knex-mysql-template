@@ -10,7 +10,6 @@ This is a starter template for building REST APIs using **Express.js**, **Knex.j
 - [Environment Variables](#environment-variables)
 - [Project Structure](#project-structure)
 - [Scripts](#scripts)
-- [License](#license)
 
 ## Installation
 
